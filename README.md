@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LDarki/LDarki/stats-output/stats.svg" height="150" alt="stats graph"  />
+  ![LDarki's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDarki&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDarki&size_weight=0.5&count_weight=0.5)
   <img src="https://raw.githubusercontent.com/LDarki/LDarki/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
